@@ -1,0 +1,22 @@
+.class1 {
+    background-image: url("nature1.jpg"); 
+    width: 390px;
+    height: 120px;
+    margin-top: 1px;
+    border: solid;
+    border-radius: 3px;    
+}
+.class3 {
+    font-weight: bold;
+    color: white;
+    text-align: start;  
+    margin-top: 50px;
+}
+.class4 {
+    margin-left: 70px;
+    margin-bottom: 50px;
+}
+.class6 {
+    height: 80px;
+    width: ;
+}
